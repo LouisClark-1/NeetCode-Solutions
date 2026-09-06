@@ -1,2 +1,2 @@
 # NeetCode-Solutions
-A place for my NeetCode Solutions. I have included all refinements of each problem 
+Folders for each branch of the NeetCode roadmap. Inside each folder is a folder for the Easy, Medium and Hard problems. Inside each of those is a folder for each problem. And in each problem's folder is my first attempt, completed with my own knowledge, a next attempt after watching NeetCode's whiteboard discussion of the problem, and a final solution after watching his code explanation. I may not write 3 solutions to each problem if my solution was already good/optimal. I am also currently learning C++ so there may be some C++ implementations of the problems too.
